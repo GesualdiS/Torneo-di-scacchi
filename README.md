@@ -24,4 +24,4 @@ Magnus Carlsen (GM che ha vinto 500 tornei) giocherà questo sabato contro Levy 
 Quando la partita sarà in corso, il database sarà costantemente aggiornato con la posizione della scacchiera, rappresentata da una stringa divise in righe nelle quali troviamo il nome del pezzo e la posizione divisi da uno spazio, e salverà il nome delle aperture quando sarà finita la teoria.
 -------------------------------------
 SCHEMA ER:
-
+![Alt text](Untitled-1.jpg)
